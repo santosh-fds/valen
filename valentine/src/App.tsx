@@ -57,7 +57,7 @@ function App() {
         <h1 className="text-4xl md:text-5xl font-bold text-pink-600 mb-4 animate-bounce">
           Hey <span className='line-through'>Mahreen</span> Bacchii..!  💖
         </h1>
-        <audio ref={audioRef} src="./src/asset/Perfect - 320Kbps-(Mr-Jat.in).mp3"  loop ></audio>
+        <audio ref={audioRef} src="./src/asset/p"  loop ></audio>
         <p className="text-lg text-pink-700 mb-8 italic">
           "Every time I see you, my heart skips a beat... ❤️"
         </p>
