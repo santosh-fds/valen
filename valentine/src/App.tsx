@@ -48,7 +48,7 @@ function App() {
       <div className="max-w-md w-full text-center">
         <div className="mb-8">
           <img 
-           src="./src/m.jpeg"
+           src="/images/m.jpeg"
             alt="Placeholder" 
             className="w-32 h-32 rounded-full mx-auto border-4 border-pink-500 shadow-lg object-cover"
           />
